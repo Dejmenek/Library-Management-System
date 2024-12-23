@@ -1,5 +1,8 @@
 ﻿# 📚 Library Management System
-> A database-driven system for efficiently managing a library's books, members, and borrowing activities, designed to streamline library operations.
+> A database-driven system for efficiently managing a library's books, members, and borrowing activities, designed to streamline library operations.  
+
+[![pl](https://img.shields.io/badge/lang-pl-red.svg)](./README.pl.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](./README.md)
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -39,10 +42,10 @@
 ## Usage
 
 ## ER Model
-🖋️ **Entity-Relationship Model**: The ER model visualizes entities, their attributes, and relationships between them. The ER diagram is available in the [ER Model](./docs/LibraryER.png) file.
+🖋️ The ER model visualizes entities, their attributes, and relationships between them. The ER diagram is available in the [ER Model](./docs/LibraryERD.png) file.
 
 ## Relational Model
-🔗 **Relational Model**: The relational model maps the ER model to a tabular representation, showing tables, keys, and relationships. The relational model diagram is available in the [Relational Model](./docs/LibraryRelational.png) file.
+🔗 The relational model maps the ER model to a tabular representation, showing tables, keys, and relationships. The relational model diagram is available in the [Relational Model](./docs/LibraryRelationalDiagram.png) file.
 
 ## Project Status
 Project is: _in progress_ 🛠️
